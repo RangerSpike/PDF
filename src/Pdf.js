@@ -144,7 +144,7 @@ function Pdf(props) {
 
             <div className="row">
             <div className="col-sm-12">
-              <div className="print-detail39" style={{ marginTop: "11px" }}>
+              <div className="print-detail40" style={{ marginTop: "11px" }}>
                 <h1>Client</h1>
                 <div className="row pd3-det">
                   <div className="col-sm-6">

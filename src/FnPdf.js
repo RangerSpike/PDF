@@ -476,14 +476,14 @@ function FnPdf(props) {
                             </div>
                         </div>
                         <div className="col-sm-4 right1">
-                            <div className="print-detail3 pd3a">
+                            <div className="print-detail39 pd3a">
                                 <h1>Work Schedule</h1>
 
                                 <div className="pvw">
                                     <div className="row">
                                         <div className="col-sm-6 pri-field-head">Start:</div>
                                         <div className="col-sm-6 pri-field-data14">
-                                        {postartdate}
+                                        {postartdate}26/021993
                                         </div>
                                     </div>
 
